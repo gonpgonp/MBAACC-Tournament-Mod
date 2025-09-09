@@ -1,0 +1,138 @@
+[FinishList]
+// ※※ タッグの場合は個別番号で呼ぶこと ※※
+
+[CharaNo_000] // Sion
+AD = 151,154,155,145,147,148
+LA = 131
+
+[CharaNo_001] // Arc
+AD = 500,506,507,514,512,516,517
+LA = 115,117
+
+[CharaNo_002] // Ciel
+AD = 200,230,231
+LA = 241,111
+
+[CharaNo_003] // Akiha
+AD = 227,228,216,239,238,224,225
+LA = 240,241,242,243,244,245,246
+
+//[CharaNo_004] //
+
+[CharaNo_005] // Hisui
+AD = 212,215,218,172
+LA = 150
+
+[CharaNo_006] // Kohaku
+AD = 83,201,217,223 //83を削除
+LA = 168
+
+[CharaNo_007] // Shiki
+AD = 200,202,203,204,205
+LA = 210
+
+[CharaNo_008] // Miyako
+AD = 201,205
+LA = 198
+
+[CharaNo_009] // Warakia
+AD = 152,153,159,227,228,229,231,162
+LA = 81,84
+
+
+[CharaNo_010] // Nero
+AD = 175,182
+LA = 202
+
+[CharaNo_011] // VSion
+AD = 205,207
+LA = 500,501,509
+
+[CharaNo_012] // Warc
+AD = 229,228,239,240
+LA = 216,219,222
+
+[CharaNo_013] // AkaAkiha
+AD = 543,544
+LA = 534
+
+[CharaNo_014] // MECH-HISUI
+AD = 201,226,225,504
+LA = 179
+
+
+[CharaNo_015] // NANAYA
+AD = 202,199,203,208
+LA = 210,214
+
+//[CharaNo_016] // G
+
+
+[CharaNo_017] // SATSUKI
+AD = 150,151,154,160,163
+LA = 131
+
+[CharaNo_018] // LEN
+AD = 152,157,162,161
+LA = 183,190
+
+[CharaNo_019] // P CIEL
+AD = 207,215,216
+LA = 231,232
+
+[CharaNo_020] // NECO
+AD = 221,222,223,224,204,200,201
+LA = 163
+
+
+[CharaNo_022] // AOZAKI AOKO
+AD = 120,125,124
+LA = 158,167
+
+[CharaNo_023] // WHITE LEN
+AD = 162,164,160,151
+LA = 205,206
+
+
+
+[CharaNo_025] // NECO-ARC・CHAOS
+AD = 231,236,232
+LA = 163
+
+// DAMIEN ARMIES
+// NECO CHAOS BLACK G666
+
+[CharaNo_028] // KISHIMA KOUMA
+AD = 161,164,150,152,155,157,156,151
+LA = 171,172,177
+
+[CharaNo_029] // TOHNO AKIHA _S
+AD = 135,371,373,375,377
+LA = 534,536
+
+
+[CharaNo_030] // RIESBYFE STRIDBERG
+AD = 400,402
+LA = 499,498
+
+[CharaNo_031] // MICHAEL ROA VALDAMJONG
+AD = 154,153,187,186
+LA = 190,191
+
+[CharaNo_032] // DUST OF OSIRIS 217:紐 236:全画面崩壊　ＬＡなし
+AD = 217,236
+
+[CharaNo_033] // RYOUGI SHIKI
+AD = 654,655,657
+LA = 605
+
+[CharaNo_051] // Sion
+AD = 315
+LA = 331
+
+//[CharaNo_034] // NECO & MECH
+
+//[CharaNo_035] // KOHA & MECH
+
+
+

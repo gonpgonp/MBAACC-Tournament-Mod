@@ -1,0 +1,14 @@
+[System]
+ProjectName=eddie
+[DataFile]
+FileNum= 4
+File00=eddie.HA6
+File01=eddie_0.HA6
+File02=eddie_1.HA6
+File03=eddie_2.HA6
+
+[BmpcutFile]
+FileNum= 1
+File00=eddie.CG
+[PAniFile]
+FileNum= 0
