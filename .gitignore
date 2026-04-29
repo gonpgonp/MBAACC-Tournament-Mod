@@ -1,0 +1,12 @@
+*
+!data/
+!data/**
+!grp/
+!grp/**
+!_FinishList.txt
+!_sysfont.ini
+!_charaselect.txt
+!font.fnt
+!fontl.fnt
+!fonts.fnt
+!.gitignore
